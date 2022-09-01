@@ -1,0 +1,4 @@
+windows
+notepc
+11
+xp
